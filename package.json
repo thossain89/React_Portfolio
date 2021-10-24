@@ -1,7 +1,7 @@
 {
   "name": "Professional_React_Portfolio",
   "version": "0.1.0",
-  "homepage": "https://thossain89.github.io/React_Portfolio/",
+  "homepage": "https://thossain89.github.io/React_Portfolio",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
