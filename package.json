@@ -1,6 +1,6 @@
 {
   "name": "Professional_React_Portfolio",
-  "version": "0.1.0",  
+  "version": "0.1.0",
   "homepage": "https://thossain89.github.io/React_Portfolio/",
   "private": true,
   "dependencies": {
@@ -28,9 +28,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
+    "eject": "react-scripts eject",    
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -d build"          
   },
   "eslintConfig": {
     "extends": [
