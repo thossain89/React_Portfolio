@@ -25,8 +25,9 @@ import Navbar from './components/navbar';
 import About from './components/about.jsx';
 import BackToTop from './components/back-top.jsx';
 import Preloader from './components/preloader';
-import Contact from './components/contact'
-
+import Contact from './components/contact';
+import Resume from './components/resume';
+import Projects from './components/projects';
 
 
 ReactDOM.render(
@@ -34,7 +35,9 @@ ReactDOM.render(
       <Navbar />
       <Intro />
       <About/>
-      <Contact/>
+      <Projects/>
+      <Resume/>
+      <Contact/>     
       <BackToTop/>
       <Preloader/>
   </React.Fragment>,
