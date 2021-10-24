@@ -1,6 +1,7 @@
 {
-  "name": "week_20",
+  "name": "Professional_React_Portfolio",
   "version": "0.1.0",
+  "homepage":"https://github.com/thossain89/React_Portfolio",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
@@ -27,7 +28,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

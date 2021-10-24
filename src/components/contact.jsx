@@ -115,27 +115,7 @@ class Contact extends React.Component{
                               <li>
                                 <span className="bi bi-phone"></span> (+61)
                                 404643188
-                              </li>
-                              <li>
-                                <span className="bi bi-envelope"></span>
-                                hossaintanvir@live.co.uk
-                              </li>
-                              <li>
-                                <span className="bi bi-envelope"></span>
-                                tanvirhossain2006@gmail.com
-                              </li>
-                              <li>
-                                <a href="https://github.com/thossain89">
-                                  <span class="bi bi-github"></span>My GitHub
-                                  Profile
-                                </a>
-                              </li>
-                              <li>
-                                <a href="https://au.linkedin.com/in/thossain89?trk=profile-badge">
-                                  <span class="bi bi-linkedin"></span>My
-                                  LinkedIn Profile
-                                </a>
-                              </li>
+                              </li>                             
                             </ul>
                           </div>
                           <div className="socials">
