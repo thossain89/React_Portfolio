@@ -18,7 +18,7 @@ class About extends React.Component{
                 {id:"API_skill", content: "REST Api & CRUD operations",percentage: "80%", value: "80"},
                 {id:"GraphQl_skill", content: "GraphQL",percentage: "65%", value: "65"},
                 {id:"React_skill", content: "ReactJS",percentage: "50%", value: "50"},
-                {id:"Git_skill", content: "Git",percentage: "800%", value: "80"},
+                {id:"Git_skill", content: "Git",percentage: "80%", value: "80"},
             ],
             about_me:[
                 {id: "first-p-about",content: "I am a solutions-driven Full Stack Developer applying Engineering background and strong technical skill set towards building functional websites and web applications.I have a Full Stack Web Development certificate from the University of Sydney (USYD), where I have developed skills in HTML 5/CSS3, JavaScript,Bootstrap,jQuery, Express.js, Node.js, MySql, MongoDB, Sequelize, Mongoose, PWA, RESTful API and CRUD operations, GraphQL, Socket.io, React, Git and responsive web design."},
