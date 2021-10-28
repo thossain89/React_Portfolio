@@ -23,7 +23,7 @@ class Contact extends React.Component{
                           </div>
                           <div>
                             <form
-                              action="https://formspree.io/f/mrgrvoba"
+                              action="https://formspree.io/f/meqvwbqz"
                               method="POST"
                               className="contactForm"
                             >

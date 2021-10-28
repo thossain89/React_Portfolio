@@ -71,9 +71,12 @@ class Resume extends React.Component {
                                 <li>jQuery</li>
                                 <li>Express.js & Node.js</li>
                                 <li>Mysql & MongoDB</li>
+                                <li>Sequelize & Mongoose</li>
+                                <li>RESTful API & CRUD operations</li>
                                 <li>GraphQl</li>
-                                <li>Socket IO</li>
-                                <li>React.js</li>
+                                <li>Socket io</li>
+                                <li>React</li>
+                                <li>Git</li>
                                 <li>MATLAB and LABVIEW</li>
                               </ul>                       
       

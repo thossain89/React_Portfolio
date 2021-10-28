@@ -13,12 +13,15 @@ class About extends React.Component{
                 {id:"UI_skill", content: "Bootstrap, Materialize & Bulma",percentage: "65%", value: "65"},
                 {id:"Server_skill", content: "Node.js & Express.js",percentage: "80%", value: "80"},
                 {id:"Database_skill", content: "MySql & MongoDB",percentage: "70%", value: "70"},
+                {id:"Database_skill", content: "Sequelize & Mongoose",percentage: "70%", value: "70"},
                 {id:"Websocket_skill", content: "Socket.io",percentage: "60%", value: "60"},
-                {id:"GraphQl_skill", content: "GraphQL",percentage: "60%", value: "60"},
-                {id:"ReactJS_skill", content: "ReactJS",percentage: "50%", value: "50"},
+                {id:"API_skill", content: "REST Api & CRUD operations",percentage: "80%", value: "80"},
+                {id:"GraphQl_skill", content: "GraphQL",percentage: "65%", value: "65"},
+                {id:"React_skill", content: "ReactJS",percentage: "50%", value: "50"},
+                {id:"Git_skill", content: "Git",percentage: "800%", value: "80"},
             ],
             about_me:[
-                {id: "first-p-about",content: "I am a solutions-driven Full Stack Developer applying Engineering background and strong technical skill set towards building functional websites and web applications.I am undertaking an intensive Full Stack Development course from the University of Sydney (USYD), where I am developing skills in HTML 5, JavaScript, CSS, Bootstrap,jQuery, Express.js, Node.js, MySql, MongoDB, PWA, GraphQL, Socket.io, React.js and responsive web design."},
+                {id: "first-p-about",content: "I am a solutions-driven Full Stack Developer applying Engineering background and strong technical skill set towards building functional websites and web applications.I have a Full Stack Web Development certificate from the University of Sydney (USYD), where I have developed skills in HTML 5/CSS3, JavaScript,Bootstrap,jQuery, Express.js, Node.js, MySql, MongoDB, Sequelize, Mongoose, PWA, RESTful API and CRUD operations, GraphQL, Socket.io, React, Git and responsive web design."},
                 {id: "second-p-about", content: " I have graduated in Electrical & Electronics Engineering with majors in communication systems from University of Plymouth, UK and for last last 5 years I have been in the retail industry which gave me the opportunity to learn about work ethics, attention to detail, communication skills, interpersonal skills, customer service skills including excellent leadership skills. I have always excelled at multitasking and used to work part-time while undertaking my degree. My strengths include problem solving, project management, and agile adaptation to last minute support changes, which makes me an integral member of any team."},
                 {id: "third-p-about", content: "As an eager learner and natural “helper”, I am excited to use my technical skills and collaborative nature to write cleaner code, identify errors, and help your team to continue to develop innovative, and exciting work."}
             ]
