@@ -96,7 +96,7 @@ class Resume extends React.Component {
                                       <span className="jobster-timeline-time">2011 - 2012</span>
                                       <h6 className="mb-2">Bsc Electrical and Electronics Engineering</h6>
                                       <span>- Plymouth University, UK</span>
-                                      <p className="mt-2">Graduated with Second className Honors Upper limit (2.1).</p>
+                                      <p className="mt-2">Graduated with Second Class Honors Upper limit (2.1).</p>
                                     </div>
                                   </div>
                                 </div>
